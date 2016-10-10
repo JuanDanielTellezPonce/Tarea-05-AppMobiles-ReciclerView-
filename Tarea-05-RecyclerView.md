@@ -1,4 +1,4 @@
-		 Reporte de RecyclerView
+				 Reporte de RecyclerView
 El widget RecyclerView es una versión más flexible y avanzada de ListView. Este widget 
 es un contenedor para mostrar grandes conjuntos de datos que se pueden desplazar de 
 manera muy eficiente al mantener una cantidad limitada de vistas. Usa el widget 
@@ -8,9 +8,9 @@ ejecución sobre la base de la acción del usuario o los eventos de la red.
 La clase RecyclerView simplifica la pantalla y la manipulación de grandes conjuntos de 
 datos al proporcionar lo siguiente:
 
-*Administradores de diseño para el posicionamiento de elementos
+	*Administradores de diseño para el posicionamiento de elementos
 
-*Animaciones predeterminadas para las operaciones comunes con elementos, como quitar o 
+	*Animaciones predeterminadas para las operaciones comunes con elementos, como quitar o 
 agregar elementos
 
 También tienes la flexibilidad para definir administradores de diseño personalizados y 
@@ -31,9 +31,9 @@ de findViewById().
 
 RecyclerView te proporciona estos administradores de diseño incorporados:
 
-*LinearLayoutManager muestra elementos en una lista de desplazamiento horizontal o vertical.
+	*LinearLayoutManager muestra elementos en una lista de desplazamiento horizontal o vertical.
 
-*GridLayoutManager muestra elementos en una cuadrícula.
+	*GridLayoutManager muestra elementos en una cuadrícula.
 
 *StaggeredGridLayoutManager muestra elementos en una cuadrícula escalonada.
 
