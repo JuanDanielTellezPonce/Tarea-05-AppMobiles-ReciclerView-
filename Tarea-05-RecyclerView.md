@@ -35,7 +35,7 @@ RecyclerView te proporciona estos administradores de diseño incorporados:
 
 	*GridLayoutManager muestra elementos en una cuadrícula.
 
-*StaggeredGridLayoutManager muestra elementos en una cuadrícula escalonada.
+	*StaggeredGridLayoutManager muestra elementos en una cuadrícula escalonada.
 
 Para crear un administrador de diseño personalizado, extiende la clase 
 RecyclerView.LayoutManager.
