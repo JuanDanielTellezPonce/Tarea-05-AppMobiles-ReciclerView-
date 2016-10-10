@@ -8,8 +8,8 @@ ejecución sobre la base de la acción del usuario o los eventos de la red.
 La clase RecyclerView simplifica la pantalla y la manipulación de grandes conjuntos de 
 datos al proporcionar lo siguiente:
 
--Administradores de diseño para el posicionamiento de elementos
--Animaciones predeterminadas para las operaciones comunes con elementos, como quitar o 
+*Administradores de diseño para el posicionamiento de elementos
+*Animaciones predeterminadas para las operaciones comunes con elementos, como quitar o 
 agregar elementos
 
 También tienes la flexibilidad para definir administradores de diseño personalizados y 
@@ -30,9 +30,9 @@ de findViewById().
 
 RecyclerView te proporciona estos administradores de diseño incorporados:
 
--LinearLayoutManager muestra elementos en una lista de desplazamiento horizontal o vertical.
--GridLayoutManager muestra elementos en una cuadrícula.
--StaggeredGridLayoutManager muestra elementos en una cuadrícula escalonada.
+*LinearLayoutManager muestra elementos en una lista de desplazamiento horizontal o vertical.
+*GridLayoutManager muestra elementos en una cuadrícula.
+*StaggeredGridLayoutManager muestra elementos en una cuadrícula escalonada.
 
 Para crear un administrador de diseño personalizado, extiende la clase 
 RecyclerView.LayoutManager.
